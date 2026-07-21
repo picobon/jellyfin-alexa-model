@@ -169,10 +169,10 @@
           "{musician} をシャッフルして",
           "{musician} を再生して",
           "{musician} のストリーム",
-          "{musician}を再生",
-          "{musician}を流して",
-          "{musician}を聞かせて",
-          "{musician}をかけて"
+          "{musician} を再生",
+          "{musician} を流して",
+          "{musician} を聞かせて",
+          "{musician} をかけて"
         ],
         "slots": [
           {
